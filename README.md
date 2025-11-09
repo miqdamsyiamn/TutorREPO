@@ -44,10 +44,5 @@ git push -u origin main
 
 ```
 
-## 🧠 Penjelasan Kode
-
-* Saya telah mengubah judul seperti `...or create a new repository...` menjadi judul Markdown yang rapi menggunakan `###`.
-* Semua perintah `git` dari gambar Anda telah ditempatkan di dalam blok kode ` ```bash ... ``` `.
-* Saya juga menambahkan **komentar** (baris yang dimulai dengan `#`) di dalam blok kode untuk menjelaskan fungsi setiap perintah, sehingga README Anda juga berfungsi sebagai dokumentasi yang baik.
-
-Apakah ini sudah sesuai dengan yang Anda inginkan?
+## Yang harus di rubah
+ganti SSH-Key sesuai dengan nama repo yang di buat
