@@ -27,6 +27,9 @@ git branch -M main
 # Menghubungkan repositori lokal Anda ke remote GitHub
 git remote add origin git@github.com:Creacipe/SSH-Key.git
 
+# jika usah add mit lisence git pull dulu sebelum git push
+git pull origin main --allow-unrelated-histories
+
 # Mengirim (push) commit Anda ke GitHub
 git push -u origin main
 ```
